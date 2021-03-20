@@ -27,7 +27,14 @@ Here are some ideas to get you started:
 
 💬 ¿Quieres contactarme o simplemente eres curioso? Así como ves mi nombre de usuario o el nombre de este repositorio, Codedvil, también así puedes encontrarme en mis redes sociales como Facebook, Instagram, Twitter y Youtube.
 
-[Mi Facebook]()
+[Mi Facebook](https://www.facebook.com/Codedvil)
+
 [Mi Twitter](https://www.twitter.com/codedvil)
-[Mi Instagram]()
-[YouTube]()
+
+[Mi Instagram](https://www.instagram.com/codedvil)
+
+[YouTube](http://www.youtube.com/c/Codedvil)
+
+## Oye y, ¿Por qué "Codedvil"? 🤔
+
+😄 Es una especie de acrónimo entre código/me gusta escribir código/me gusta deshacer código (Code) y mi nombre (EdVil de Edgar Vilchis). El nombre salió en una charla muy buena durante una clase de Computación Gráfica.
