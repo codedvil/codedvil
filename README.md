@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 ## Hey but, why Codedvil? 🤔
 
-😄 It's a kind of acronym between code/loving to code/loving to do and undo code/ (Code) and my name (EdVil as Edgar Vilchis). The name came out in a cool chat during a Graphics Computing class.
+😄 It's a kind of acronym between code/loving to code/loving to do and undo code (Code) and my name (EdVil as Edgar Vilchis). The name came out in a cool chat during a Graphics Computing class.
