@@ -22,3 +22,12 @@ Here are some ideas to get you started:
 🌱 Yo soy mucho de leer y aprender por mi cuenta, así que en mis tiempos libres leo artículos sobre programación y trato de implementar lo que acabo de aprender
 
 👯 También, actualmente estoy colaborando con Fortin Tech, una empresa hecha por un amigo llamado Adolfo Pérez junto con su hermano Armando para un servicio de nombre APAMED
+
+🤔 A la par de lo anterior, sigo siendo estudiante. Actualmente estudio mi último semestre en la Facultad de Ingeniería de la UNAM y estoy tomando un Diplomado en Desarrollo de Aplicaciones Móviles iOS para poder usarlo como opcion de titulación y dentro de unos meses envolverme de lleno en el ambiente laboral.
+
+💬 ¿Quieres contactarme o simplemente eres curioso? Así como ves mi nombre de usuario o el nombre de este repositorio, Codedvil, también así puedes encontrarme en mis redes sociales como Facebook, Instagram, Twitter y Youtube.
+
+[Mi Facebook]()
+[Mi Twitter](https://www.twitter.com/codedvil)
+[Mi Instagram]()
+[YouTube]()
