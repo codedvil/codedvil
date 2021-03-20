@@ -1,4 +1,4 @@
-### Bienvenido a mi espacio para ver recursos y material 👋
+### Welcome to my coding site with resources and some cool material provided by me written in both English and Spanish 👋
 
 <!--
 **codedvil/codedvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
