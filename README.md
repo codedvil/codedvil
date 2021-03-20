@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 [YouTube](http://www.youtube.com/c/Codedvil)
 
-## Oye y, ¿Por qué "Codedvil"? 🤔
+## Hey but, why Codedvil? 🤔
 
-😄 Es una especie de acrónimo entre código/me gusta escribir código/me gusta deshacer código (Code) y mi nombre (EdVil de Edgar Vilchis). El nombre salió en una charla muy buena durante una clase de Computación Gráfica.
+😄 It's a kind of acronym between code/loving to code/loving to do and undo code/ (Code) and my name (EdVil as Edgar Vilchis). The name came out in a cool chat during a Graphics Computing class.
