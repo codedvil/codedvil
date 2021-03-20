@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ⚡⚡⚡ Un poco de información sobre mi ⚡⚡⚡
+## ⚡⚡⚡ A little about me ⚡⚡⚡
 
-🔭 Actualmente trabajo como pasante en una empresa llamada eJAmerica en donde aprendo un poco sobre Javascript y NodeJS
+🔭 Right now I'm working as an intern on an enterprise called eJAmerica where I'm learning some JavaScript and NodeJS
 
-🌱 Yo soy mucho de leer y aprender por mi cuenta, así que en mis tiempos libres leo artículos sobre programación y trato de implementar lo que acabo de aprender
+🌱 I'm so much about reading and learning by myself, so, on my free time I'm reading articles about programming and I try to implement what I actually learned
 
 👯 También, actualmente estoy colaborando con Fortin Tech, una empresa hecha por un amigo llamado Adolfo Pérez junto con su hermano Armando para un servicio de nombre APAMED
 
