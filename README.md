@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 🤔 Along with the above, I'm still a student. Right now I'm studying my last semester in the Faculty of Enginnering at UNAM in Mexico City and I'm taking a diplomat of iOS Development Apps so I can take it as an option to have my degree in Computer Engineering.
 
-💬 ¿Quieres contactarme o simplemente eres curioso? Así como ves mi nombre de usuario o el nombre de este repositorio, Codedvil, también así puedes encontrarme en mis redes sociales como Facebook, Instagram, Twitter y Youtube.
+💬 Wanna get in touch with me? 
 
-[Mi Facebook](https://www.facebook.com/Codedvil)
+[Facebook](https://www.facebook.com/Codedvil)
 
-[Mi Twitter](https://www.twitter.com/codedvil)
+[Twitter](https://www.twitter.com/codedvil)
 
-[Mi Instagram](https://www.instagram.com/codedvil)
+[Instagram](https://www.instagram.com/codedvil)
 
 [YouTube](http://www.youtube.com/c/Codedvil)
 
