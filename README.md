@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ## ⚡⚡⚡ A little about me ⚡⚡⚡
 
-🔭 Right now I'm working as an intern on an enterprise called eJAmerica where I'm learning some JavaScript and NodeJS
+🔭 Right now I'm working as an iOS Developer at Globant.
 
 🌱 I'm so much about reading and learning by myself, so, on my free time I'm reading articles about programming and I try to implement what I actually learned
 
 👯 Also, I'm right now collaborating with Fortin Tech, a startup made by a friend of mine called Adolfo Pérez and his brother Armando for a service called APAMED
 
-🤔 Along with the above, I'm still a student. Right now I'm studying my last semester in the Faculty of Enginnering at UNAM in Mexico City and I'm taking a diplomat of iOS Development Apps so I can take it as an option to have my degree in Computer Engineering.
+🤔 Along with the above, I have a degree in Computer Engineering from the National Autonomous University of Mexico.
 
 💬 Wanna get in touch with me? 
 
