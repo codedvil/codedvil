@@ -1,4 +1,4 @@
-### Welcome to my coding site with resources and some cool material provided by me written in both English and Spanish 👋
+# Hello world! My name is Edgar Vilchis - [Codedvil][website]
 
 <!--
 **codedvil/codedvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ⚡⚡⚡ A little about me ⚡⚡⚡
+## Software Engineer | iOS Developer
 
-🔭 Right now I'm working as an iOS Developer at Globant.
+- ‍‍💻 Currently working at Globant as an iOS Developer.
 
 🌱 I'm so much about reading and learning by myself, so, on my free time I'm reading articles about programming and I try to implement what I actually learned
 
@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 ## Hey but, why Codedvil? 🤔
 
 😄 It's a kind of acronym between code/loving to code/loving to do and undo code (Code) and my name (EdVil as Edgar Vilchis). The name came out in a cool chat during a Graphics Computing class.
+
+[website]: https://youtube.com/@Codedvil
