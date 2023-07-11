@@ -1,10 +1,10 @@
-# Hello world! My name is Edgar Vilchis - [Codedvil][website]
+# Hello world! My name is Edgar Vilchis - [Codedvil][youtube]
 
 ## Software Engineer | iOS Developer
 
 - 💻 I'm Currently working at Globant as an iOS Developer.
 
-- 🤓 Presenting novelties, new technology features and videogames at [Codedvil][website]
+- 🤓 Presenting novelties, new technology features and videogames at [Codedvil][youtube]
 
 - 🏥 Also, I'm currently collaborating with Fortin Tech, a startup made by a friend of mine called Adolfo Pérez and his brother Armando for a service called 
 [APAMED][apamed]
@@ -39,10 +39,16 @@
 
 [Instagram][instagram]
 
-[YouTube][website]
+[YouTube][youtube]
 
-[website]: https://youtube.com/@Codedvil
+- [LinkedIn<img align="left" alt="Edgar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+- [Codedvil<img align="left" alt="codedvil - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube] 
+- [Twitter<img align="left" alt="codedvil - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter] 
+- [Instagram<img align="left" alt="codedvil - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+
+[youtube]: https://youtube.com/@Codedvil
 [apamed]: https://apamedoficial.com/equipo/
 [unam]: https://www.unam.mx/
 [twitter]: https://www.twitter.com/codedvil
 [instagram]: https://www.instagram.com/codedvil
+[linkedin]: https://www.linkedin.com/in/edgarvilchis
