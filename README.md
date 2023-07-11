@@ -18,13 +18,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
 
 ## Technologies & Tools:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="50" height="50"/<&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/<&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/<&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
 
 ## Version control:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/<&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50"/<&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50"/>&nbsp;
 
 ## Let's connect!
 [Twitter][twitter]
