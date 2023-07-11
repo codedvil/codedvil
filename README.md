@@ -35,11 +35,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50"/>&nbsp;
 
 ## Let's connect!
-[Twitter][twitter]
-
-[Instagram][instagram]
-
-[YouTube][youtube]
 
 - [LinkedIn<img align="left" alt="Edgar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 - [Codedvil<img align="left" alt="codedvil - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube] 
