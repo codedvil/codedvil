@@ -17,15 +17,20 @@ Here are some ideas to get you started:
 
 ## Software Engineer | iOS Developer
 
-- ‍‍💻 Currently working at Globant as an iOS Developer.
+- 💻 I'm Currently working at Globant as an iOS Developer.
 
-🌱 I'm so much about reading and learning by myself, so, on my free time I'm reading articles about programming and I try to implement what I actually learned
+- 🤓 Presenting novelties, new technology features and videogames at [Codedvil][website]
 
-👯 Also, I'm right now collaborating with Fortin Tech, a startup made by a friend of mine called Adolfo Pérez and his brother Armando for a service called APAMED
+- 🏥 Also, I'm currently collaborating with Fortin Tech, a startup made by a friend of mine called Adolfo Pérez and his brother Armando for a service called 
+[APAMED][apamed]
 
-🤔 Along with the above, I have a degree in Computer Engineering from the National Autonomous University of Mexico.
+- 🎓 Along with the above, I have a degree in Computer Engineering from the National Autonomous University of Mexico - [UNAM][unam]
 
-💬 Wanna get in touch with me? 
+## Programming Languages:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="30" height="30"/>&nbsp;
+
+## Let's connect!
 
 [Facebook](https://www.facebook.com/Codedvil)
 
@@ -40,3 +45,5 @@ Here are some ideas to get you started:
 😄 It's a kind of acronym between code/loving to code/loving to do and undo code (Code) and my name (EdVil as Edgar Vilchis). The name came out in a cool chat during a Graphics Computing class.
 
 [website]: https://youtube.com/@Codedvil
+[apamed]: https://apamedoficial.com/equipo/
+[unam]: https://www.unam.mx/
