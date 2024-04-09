@@ -35,12 +35,12 @@
 
 - [LinkedIn<img align="left" alt="Edgar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 - [Codedvil<img align="left" alt="codedvil - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube] 
-- [Twitter<img align="left" alt="codedvil - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter] 
+- [X (Fka Twitter)<img align="left" alt="codedvil - X (Fka Twitter)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter] 
 - [Instagram<img align="left" alt="codedvil - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 [youtube]: https://youtube.com/@Codedvil
 [apamed]: https://apamedoficial.com/equipo/
 [unam]: https://www.unam.mx/
-[twitter]: https://www.twitter.com/codedvil
+[twitter]: https://www.x.com/codedvil
 [instagram]: https://www.instagram.com/codedvil
 [linkedin]: https://www.linkedin.com/in/edgarvilchis
