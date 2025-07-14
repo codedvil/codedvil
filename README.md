@@ -1,4 +1,4 @@
-## Hello world! My name is Edgar Vilchis - [Codedvil][linkedin]
+## Hello world! My name is Edgar Vilchis - [LinkedIn Main Profile][linkedin]
 
 ## Software Engineer | iOS Developer
 
