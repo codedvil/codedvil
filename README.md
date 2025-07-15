@@ -1,6 +1,14 @@
-## Hello world! My name is Edgar Vilchis - [LinkedIn Main Profile][linkedin]
+<div align="leading">
 
-## Software Engineer | iOS Developer
+  # Edgar Vilchis
+  ### Computer Engineer · Mobile Developer
+  
+  [![X Follow](https://img.shields.io/twitter/follow/codedvil?style=for-the-badge&logo=x)][Twitter]
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)][linkedin]
+
+</div>
+
+---
 
 - 💻 I'm Currently working at Globant as an iOS Developer.
 
@@ -24,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="Github" alt="Github" width="30" height="30"/>&nbsp;
 
-## Let's connect!
+## Contact
 
 - [LinkedIn<img align="left" alt="Edgar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 - [Codedvil<img align="left" alt="codedvil - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube] 
